@@ -14,3 +14,21 @@ Python 3
 Socket Programming
 Network Security Concepts
 Vulnerability Assessment Fundamentals
+
+ Project Structure
+
+vulnscanner/
+│
+├── vulnerability_scanner.py
+├── vulnerability_report.txt
+├── README.md
+├── LICENSE
+└── screenshots/
+
+File Description
+
+- vulnerability_scanner.py – Main Python-based vulnerability scanner.
+- vulnerability_report.txt – Automatically generated scan report.
+- README.md – Project overview, features, and usage instructions.
+- LICENSE – Project license.
+- screenshots/ – Screenshots demonstrating the tool in action.
